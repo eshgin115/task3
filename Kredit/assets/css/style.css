@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.section{
+   
+    padding: 10rem 10rem;
+}
+.center{
+padding: 10rem 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://pbs.twimg.com/media/FcN9dkOWQAA3s1h?format=jpg&name=large);
+}
+#btn{
+    padding: 10px 15px;
+}
